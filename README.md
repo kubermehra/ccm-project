@@ -34,7 +34,7 @@ To get started with these extensions, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/semantic-cognition-extensions.git
+   git clone https://github.com/kubermehra/ccm-project.git
    ```
 
 3. Navigate to the desired folder and follow the respective documentation for setup and execution.
@@ -46,15 +46,13 @@ To get started with these extensions, follow these steps:
 ```
 semantic-cognition-extensions/
 ├── feedforward_extension/
-│   ├── models/
-│   ├── data/
-│   └── docs/
+│   ├── semantic_cognition_ff.ipynb
+│   ├── Datasets/
+│   └── plots/
 ├── rnn_extension/
-│   ├── models/
+│   ├── 2.1.ipynb
 │   ├── data/
-│   └── docs/
-├── tests/
-├── requirements.txt
+│   └── image/
 └── README.md
 ```
 
